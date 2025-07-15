@@ -8,8 +8,8 @@
   },
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^7.2.4",
-    "electron-packager": "^15.0.0"
+    "electron": "^28.3.2",
+    "electron-packager": "^17.1.2"
   },
   "dependencies": {
     "python-shell": "^1.0.7"
